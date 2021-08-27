@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/amosa/Downloads/c++/hotel/Account.h
+string
+-
+vector
+-
+
+C:/Users/amosa/Downloads/c++/hotel/Room.h
+string
+-
+
+C:/Users/amosa/Downloads/c++/hotel/main.cpp
+iostream
+-
+vector
+-
+string
+-
+Account.h
+C:/Users/amosa/Downloads/c++/hotel/Account.h
+Room.h
+C:/Users/amosa/Downloads/c++/hotel/Room.h
+list
+-
+

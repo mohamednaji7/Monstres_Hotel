@@ -1,0 +1,3 @@
+C:/Users/amosa/Downloads/c++/hotel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/amosa/Downloads/c++/hotel/cmake-build-debug/CMakeFiles/hotel.dir
+C:/Users/amosa/Downloads/c++/hotel/cmake-build-debug/CMakeFiles/edit_cache.dir
